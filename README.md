@@ -14,8 +14,10 @@
 - PCManFM-qt (file browser)
 - kitty
 - rofi:
-   - I use [this](https://github.com/adi1090x/rofi/tree/master) set of rofi conifgs 
+   - I use [this](https://github.com/adi1090x/rofi/tree/master) set of rofi conifgs
+- qt5c and qtc6
 
+# Theming stuff
 Icons:
 - [File manager icons](https://github.com/vinceliuice/Tela-circle-icon-theme)
 - [Application icons](https://www.gnome-look.org/p/1961046)
