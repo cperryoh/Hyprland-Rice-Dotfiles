@@ -25,3 +25,5 @@ Icons:
 [Cursor theme](https://github.com/guillaumeboehm/Nordzy-cursors)
 
 [Kvantum theme](https://github.com/GabePoel/KvYaru-Colors)
+
+# Pictures
