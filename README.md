@@ -15,7 +15,7 @@
 - kitty
 - rofi:
    - I use [this](https://github.com/adi1090x/rofi/tree/master) set of rofi conifgs
-- qt5c and qtc6
+- qt5c and qt6c
 
 # Theming stuff
 Icons:
