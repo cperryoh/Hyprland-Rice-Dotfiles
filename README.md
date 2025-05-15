@@ -27,3 +27,5 @@ Icons:
 [Kvantum theme](https://github.com/GabePoel/KvYaru-Colors)
 
 # Pictures
+![Dmenu example](rice-pictures/dmenu.png)
+![terminal example](rice-pictures/terminal.png)
